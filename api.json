@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Air Force 1",
+      "thumbnailUrl": "https://http2.mlstatic.com/zapatillas-nike-air-force-one-low-originales-en-caja-2018-D_NQ_NP_638951-MPE26556726885_122017-F.jpg"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "SB",
+      "thumbnailUrl": "https://http2.mlstatic.com/zapatillas-nike-sb-stefan-janoski-talla-us85-vans-convers-D_NQ_NP_954461-MPE25603344045_052017-F.jpg"
+    },
+    {
+      "precio": 600,
+      "id": 3,
+      "title": "Air Jordan",
+      "thumbnailUrl": "http://admin.digitalsport.com.ar/files/uploads/DIO%20AGOSTO%2021/Jordan%201%20Retro%20High%20Shadow%202-0.png"
+    },
+    {
+      "precio": 550,
+      "id": 4,
+      "title": "Jordan Low",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.vxVNj3ZzqE7903ObUIQP5QHaHa&pid=Api&P=0"
+    },
+    {
+      "precio": 700,
+      "id": 5,
+      "title": "Jordan",
+      "thumbnailUrl": "https://5.imimg.com/data5/IOS/Default/2021/1/JT/KD/WX/17552598/product-jpeg-1000x1000.png"
+    },
+    {
+      "precio": 450,
+      "id": 6,
+      "title": "Air Max",
+      "thumbnailUrl": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/ca7651f5-4d3e-4ed3-96b1-c13a63d737fb/air-max-90.png"
+    }
+  ]
